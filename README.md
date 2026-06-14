@@ -140,8 +140,6 @@ Key views:
 - `admin/facilities/create.blade.php` – form to add a new facility.  
 - `admin/facilities/edit.blade.php` – form to edit a facility.  
 
-> **Button visibility fix:** Inline CSS (`style="..."`) was used on all critical buttons because Tailwind classes were overridden in some browsers.
-
 ---
 
 ## User Authentication System
@@ -154,7 +152,6 @@ Key views:
 - **Admin** – login with:  
   Email: `admin@sportshub.com`  
   Password: `password`  
-*(Create the admin account via `php artisan tinker` if not already seeded.)*
 
 ---
 
