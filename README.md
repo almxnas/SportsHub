@@ -288,9 +288,6 @@ Key views:
 
 ---
 
-## Demo Video
-[hwhee]
-
 ## GitHub Repository
 [https://github.com/almxnas/SportsHub](https://github.com/almxnas/SportsHub)
 
