@@ -221,7 +221,7 @@ Key views:
 
 ## Testing and Quality Assurance
 
-### Functionality Testing (Confirmed Working)
+### Functionality Testing 
 - [x] User registration, login, logout.  
 - [x] Student can browse facilities, filter by sport type/location.  
 - [x] Facility detail page shows correct info and booking form.  
@@ -234,12 +234,6 @@ Key views:
 - [x] Manage Facilities – add, edit, delete facilities.  
 - [x] All buttons visible and functional (inline CSS fix).
 
-### Browser Compatibility
-- Google Chrome (Latest) – fully compatible.  
-- Mozilla Firefox (Latest) – fully compatible.  
-- Microsoft Edge (Latest) – fully compatible.
-
----
 
 ## Challenges Faced and Solutions
 
