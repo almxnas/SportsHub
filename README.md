@@ -229,7 +229,7 @@ Key views:
 - [x] Admin login – sees Admin Panel link.  
 - [x] Admin Dashboard – shows total users, facilities, bookings, reviews.  
 - [x] Manage Facilities – add, edit, delete facilities.  
-- [x] All buttons visible and functional (inline CSS fix).
+- [x] All buttons visible and functional 
 
 
 ## Challenges Faced and Solutions
